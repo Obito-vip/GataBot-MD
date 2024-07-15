@@ -1,5 +1,5 @@
 # Código desarrollado por @gata_dios 
-  
+  https://click.discord.com/ls/click?upn=u001.a0NJ38DJJG1sulNx5wS1jjC3-2FytEgbSbq-2FUmpxbpkbg14puiUN75BQU-2BrfLFYuAWB8X0py2eeyVjD738fhGFSHhMPsyUEndqfLtACp5zPj0vjfPcC3G1jvcquDbkdstS32dz0bJWFvPTn-2FAvvLDKrRf7grQqlAG9KK39QSJ5p90-2BWW9qUyZNggQqDPblolB7YDWFZK-2FhgshNHIdkuLieXmhCATbvnhcJPyFIYfdFkCM-3DIzgt_DC2mLSuw-2BGdNjXXJGz6qZODze6aow2jS5IQbAEd5B73JkpsJdc3zUkgyPgFnz-2F9swP2XB3kbaMnPP7bqBSREmYGUzo3ilC3xDwqWYBlBmzjNb-2BpyvbclYhET4ROLWEDxQ16Yp6GomOpdyOS0jZ6knQrt5e-2FCKvPz90qCgkrnWvfFJtg1dXL80-2B-2FJJ0hBTW9IMY-2FW90a6xYJqD1zAGuf-2FpheM8XV7DFW9wfvIi4uJVGCw1WeHrQgBtZiFHBz4roxaYMdh13a811tel6oepJfeeQ-3D-3D
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="GataBot-MD"  
 BOT_REPO="https://github.com/GataNina-Li/$BOT_DIR"
